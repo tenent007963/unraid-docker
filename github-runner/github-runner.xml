@@ -45,7 +45,6 @@ N/A
   <Data>
   </Data>
   <Banner></Banner>
-  <WebUI>https://[URL]/</WebUI>
   <Icon>https://raw.githubusercontent.com/tenent007963/unraid-docker/master/github-runner/github-runner.png</Icon>
   <DonateText></DonateText>
   <DonateLink></DonateLink>
