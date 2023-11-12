@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
-  <RemoveFromCA>true</RemoveFromCA>
+  <RemoveFromCA>false</RemoveFromCA>
   <TemplateURL>https://raw.githubusercontent.com/tenent007963/unraid-docker/master/github-runner/github-runner.xml</TemplateURL>
   <Beta>false</Beta>
   <Category>productivity</Category>
